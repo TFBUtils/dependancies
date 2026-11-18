@@ -1,15 +1,15 @@
 // ==UserScript==
 // @name         Bat Redirector
 // @namespace    https://github.com/TFBUtils
-// @version      1.0.0
+// @version      0
 // @description  Replaces and redirects instances of Firebat's @handle URL with her Channel ID URL :D
 // @match        https://www.youtube.com/*
 // @run-at       document-start
 // @grant        GM_xmlhttpRequest
 // @grant        unsafeWindow
 // @connect      raw.githubusercontent.com
-// @updateURL    https://raw.githubusercontent.com/TFBUtils/dependancies/batdirector/scripts/batRedirector.user.js
-// @downloadURL  https://raw.githubusercontent.com/TFBUtils/dependancies/batdirector/scripts/batRedirector.user.js
+// @updateURL    https://raw.githubusercontent.com/TFBUtils/BatRedirector/stable/scripts/batRedirector.user.js
+// @downloadURL  https://raw.githubusercontent.com/TFBUtils/BatRedirector/stable/scripts/batRedirector.user.js
 // ==/UserScript==
 
 (() => {
