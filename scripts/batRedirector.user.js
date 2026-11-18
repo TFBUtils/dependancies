@@ -8,8 +8,8 @@
 // @grant        GM_xmlhttpRequest
 // @grant        unsafeWindow
 // @connect      raw.githubusercontent.com
-// @updateURL    https://raw.githubusercontent.com/TFBUtils/dependancies/batdirector/scripts/batdirector.user.js
-// @downloadURL  https://raw.githubusercontent.com/TFBUtils/dependancies/batdirector/scripts/batdirector.user.js
+// @updateURL    https://raw.githubusercontent.com/TFBUtils/dependancies/batdirector/scripts/batRedirector.user.js
+// @downloadURL  https://raw.githubusercontent.com/TFBUtils/dependancies/batdirector/scripts/batRedirector.user.js
 // ==/UserScript==
 
 (() => {
